@@ -15,8 +15,6 @@ Android sessions work without internet. iPhone and iPad receivers can use the An
 
 ## Links
 
-- [Web app](https://g-monitor-talkback.web.app) — load once online to cache its interface; browser-only pairing uses two-way QR.
-- [Privacy policy](https://g-monitor-talkback.web.app/privacy.html)
 - Support: [romcun97@gmail.com](mailto:romcun97@gmail.com)
 - [Buy me a coffee](https://buymeacoffee.com/rommelcuneta)
 
